@@ -8,3 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'udemy-course-project1';
 }
+
+
+function returnNull() {
+  return null;
+}
